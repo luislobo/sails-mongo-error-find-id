@@ -12,3 +12,5 @@ you will see in the console a document created and a document found
 http://localhost:1337/document/notworking
 
 you will see in the console a document created and a document NOT found
+
+Check Issue: https://github.com/balderdashy/sails-mongo/issues/135
